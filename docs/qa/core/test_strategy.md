@@ -42,13 +42,15 @@ WEBLABSAI/
 ├── docs/
 │   ├── qa/
 │   │   ├── core/
-│   │   │   ├── test_processes.md
+│   │   │   ├── test_processes-dod.md
+│   │   │   ├── test_processes-stlc.md
 │   │   │   ├── test_strategy.md
 │   │   │   └── test_plan.md
 │   │   ├── reports/
 │   │   │   ├── ai-impact/
 │   │   │   └── execution/
 │   │   └── test-cases/
+│   │       └── testCase_full.xlsx
 │   └── srs.md
 ├── tests/
 │   └── automation/
