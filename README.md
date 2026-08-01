@@ -24,13 +24,13 @@ WEBLABSAI/
 │   │   │   ├── test_strategy.md
 │   │   │   └── test_plan.md
 │   │   ├── reports/
-│   │   │   ├── ai-impact/
-│   │   │   └── execution/
+│   │   │   ├── ai-impact/     //comming soon
+│   │   │   └── execution/     //comming soon
 │   │   └── test-cases/
 │   │       └── testCase_full.xlsx
 │   └── srs.md
 ├── tests/
-│   └── automation/
+│   └── automation/       //comming soon
 ├── index.html
 └── README.md
 
