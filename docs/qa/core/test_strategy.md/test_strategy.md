@@ -38,13 +38,19 @@
 
 ## 7. Cấu trúc thư mục Testing as Code
 ```text
-ai-testing-lab-web/
-└── tests/
-    ├── 01-strategy/           # Định nghĩa chiến lược kiểm thử & phạm vi
-    ├── 02-processes/          # Quy trình STLC & hướng dẫn Definition of Done (DoD)
-    ├── 03-test-cases/         # Test case chức năng và ánh xạ BDD
-    ├── 04-reports/            # Báo cáo kết quả thực thi
-    ├── 05-ai-impact-reports/  # Nhật ký phân tích tác động PR do AI hỗ trợ
-    └── 06-automation-scripts/ # Script được viết ngay sau khi hoàn thành task manual
-        ├── add-task.spec.js
-        └── toggle-task.spec.js
+WEBLABSAI/
+├── docs/
+│   ├── qa/
+│   │   ├── core/
+│   │   │   ├── test_processes.md
+│   │   │   ├── test_strategy.md
+│   │   │   └── test_plan.md
+│   │   ├── reports/
+│   │   │   ├── ai-impact/
+│   │   │   └── execution/
+│   │   └── test-cases/
+│   └── srs.md
+├── tests/
+│   └── automation/
+├── index.html
+└── README.md
