@@ -22,3 +22,4 @@ WEBLABSAI/
 └── README.md
 
 2. Link testcase: https://docs.google.com/spreadsheets/d/1dkBDaSmvH1EPr70IyC_7P7JiUQLid5jm/edit?gid=1571506610#gid=1571506610
+3. Link bug: https://njpjdx3gtxog.jp.larksuite.com/wiki/G3XSwcP0giQcg4kogfAjegeNp0b?from=from_copylink
